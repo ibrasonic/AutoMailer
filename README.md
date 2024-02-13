@@ -3,7 +3,7 @@ AutoMailer is a Bash script for automating email sending tasks using the `sendem
 Features:
 • Automates sending emails using `sendemail` utility
 • Supports sending emails individually or in bulk
-• Sending Emails: Offers options to send emails either to multiple recipients from a list or from multiple senders to a single recipient.
+• Sending Emails: Offers options to send emails either to multiple recipients from a list (Sender emails could be fake email addresses) or from multiple senders to a single recipient.
 • Optional attachment functionality
 • User-friendly prompts for SMTP server details and email content
 Get started with email automation today with AutoMailer!
