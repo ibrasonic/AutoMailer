@@ -6,8 +6,6 @@ check_sendemail_installed() {
         echo "sendemail is not installed. Installing..."
         sudo apt update
         sudo apt install sendemail -y
-    else
-        echo "sendemail is already installed."
     fi
 }
 
