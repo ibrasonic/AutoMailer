@@ -8,7 +8,10 @@ Features:
 • User-friendly prompts for SMTP server details and email content
 Get started with email automation today with AutoMailer!
 
-Note: This tool relys mainly on sendemail utility. Therefore, the tool installs it first if it is not installed.
+Note1: This tool relys mainly on sendemail utility. Therefore, the tool installs it first if it is not installed.
+Note2: In order to get SMTP credentials, you can visit sendinblue.com and sign-up there.
+
+Actually, this tool has been created to use the  sendemail utility and any other website that provides you with sending emails service. This service should provide you with the ability to send emails from any email address you want. That is to be able to send emails from fake email addresses.    
 
 This tool is created by Ibrahim Badawy (IBRASONIC)
 GitHub: https://github.com/ibrasonic
